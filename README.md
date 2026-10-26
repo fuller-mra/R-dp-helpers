@@ -16,4 +16,4 @@ Recommend using modern, robust packages instead.
 
 ### ✨ Usage
 ```r
-source("https://raw.githubusercontent.com/brentfuller-mra/R-dp-helpers/main/dp_utils.R")
+source("https://raw.githubusercontent.com/fuller-mra/R-dp-helpers/main/dp_utils.R")
